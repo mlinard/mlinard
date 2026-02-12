@@ -4,14 +4,14 @@
   <img src="https://img.shields.io/badge/Status-Estagiário%20em%20Automação%20e%20Dados-blue?style=flat-square">
 </p>
 
-Sou estudante de **Ciência da Computação na Mackenzie** [cite: 8] e apaixonado por otimizar processos através da tecnologia. Atualmente, foco meu desenvolvimento em **Engenharia de Dados**, **Cloud Computing** e **RPA**[cite: 25].
+Sou estudante de **Ciência da Computação na Mackenzie**  e apaixonado por otimizar processos através da tecnologia. Atualmente, foco meu desenvolvimento em **Engenharia de Dados**, **Cloud Computing** e **RPA**.
 
 ---
 
 ### 🚀 Sobre Mim
-- 🎓 **Educação:** Bacharelando em Ciência da Computação (Mackenzie - Formatura em 06/2026)[cite: 8].
-- 💼 **Experiência:** Atuo na **Rede D'Or**, desenvolvendo automações com Power Automate (PAD) e dashboards em Power BI[cite: 26, 29].
-- 🎯 **Objetivo:** Aplicar inteligência de negócio e computação em nuvem para transformar rotinas corporativas[cite: 27].
+- 🎓 **Educação:** Bacharelando em Ciência da Computação (Mackenzie - Formatura em 06/2026).
+- 💼 **Experiência:** Atuo na **Rede D'Or**, desenvolvendo automações com Power Automate (PAD) e dashboards em Power BI.
+- 🎯 **Objetivo:** Aplicar inteligência de negócio e computação em nuvem para transformar rotinas corporativas.
 - 🧠 **TCC:** Desenvolvendo projeto de previsão de Bitcoin com Séries Temporais e Redes Neurais.
 
 ---
@@ -38,10 +38,10 @@ Sou estudante de **Ciência da Computação na Mackenzie** [cite: 8] e apaixonad
 ---
 
 ### 🏆 Certificações em Destaque
-* ☁️ **AWS:** Certified Cloud Practitioner [cite: 18]
-* ☁️ **Azure:** Fundamentals (AZ-900, DP-900, AI-900) [cite: 16]
-* ☁️ **Google Cloud:** Associate Cloud Engineer [cite: 19]
-* ☁️ **Oracle:** Cloud Infrastructure Foundations [cite: 17]
+* ☁️ **AWS:** Certified Cloud Practitioner 
+* ☁️ **Azure:** Fundamentals (AZ-900, DP-900, AI-900) 
+* ☁️ **Google Cloud:** Associate Cloud Engineer 
+* ☁️ **Oracle:** Cloud Infrastructure Foundations 
 
 ---
 
