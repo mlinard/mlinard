@@ -1,16 +1,15 @@
-## Hi there 👋
+# Olá, eu sou o Marcello! 👋
 
-<!--
-**mlinard/mlinard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Analista de Dados | Enthusiast em Cloud & Machine Learning
 
-Here are some ideas to get you started:
+- 🎓 Cursando Ciência da Computação na Universidade Presbiteriana Mackenzie.
+- 💼 Estagiário na Rede D'Or, focado em automação e análise.
+- 🚀 Atualmente desenvolvendo um modelo de Deep Learning para predição de criptoativos (TCC).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tecnologias e Ferramentas
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+### 📈 Minhas Estatísticas
+![Marcello's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical)
