@@ -42,6 +42,7 @@ Sou estudante de **Ciência da Computação na Mackenzie**  e apaixonado por oti
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical)
 
+
 ![Gráfico de Contribuições](https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=radical)
 
 ---
